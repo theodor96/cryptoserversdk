@@ -12,7 +12,7 @@
 #ifndef __OS_H_PUB_INCLUDED__
 #define __OS_H_PUB_INCLUDED__
 
-#include <stype.h>
+#include "stype.h"
 
 typedef struct _os_public_interface_and_data
 {

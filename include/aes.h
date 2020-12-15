@@ -14,10 +14,10 @@
 #ifndef __AES_H_PUB_INCLUDED__
   #define __AES_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <os_mem.h>
+#include "os_mdl.h"
+#include "os_mem.h"
 
-#include <stype.h>
+#include "stype.h"
 
 
 

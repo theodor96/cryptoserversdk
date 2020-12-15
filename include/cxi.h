@@ -19,9 +19,9 @@
 
 #include "cxi_defs.h"
 
-#include <hash.h>
-#include <db.h>
-#include <os_mem.h>
+#include "hash.h"
+#include "db.h"
+#include "os_mem.h"
 
 /******************************************************************************
  *

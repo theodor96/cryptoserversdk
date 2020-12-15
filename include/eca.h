@@ -24,8 +24,8 @@
 #ifndef __ECA_H_PUB_INCLUDED__
   #define __ECA_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <stype.h>
+#include "os_mdl.h"
+#include "stype.h"
 
 
 // module identification:

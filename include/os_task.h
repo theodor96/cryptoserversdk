@@ -191,7 +191,7 @@ T_OS_TASK_TABLE_PUB;
 
 #ifdef CS2_SDK
   #if defined(OSYS_win) || defined(WIN32)
-    #include <windows.h>
+    #include "windows.h"
 
     typedef DWORD                       T_OS_TASK_TLS_HDL;
 
@@ -205,7 +205,7 @@ T_OS_TASK_TABLE_PUB;
     #ifndef _GNU_SOURCE
     #define _GNU_SOURCE
     #endif
-    #include <pthread.h>
+    #include "pthread.h"
 
     typedef pthread_key_t               T_OS_TASK_TLS_HDL;
 

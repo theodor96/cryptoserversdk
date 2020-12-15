@@ -15,7 +15,7 @@
 
 #include "os.h"
 
-#include <stdarg.h>
+#include "stdarg.h"
 
 typedef void (T_PUTCC)(int c);
 

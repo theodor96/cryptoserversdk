@@ -13,8 +13,8 @@
 #ifndef __ADM_H_PUB_INCLUDED__
 #define __ADM_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <cmds.h>
+#include "os_mdl.h"
+#include "cmds.h"
 
 
 //-----------------------------------------------------------------------------

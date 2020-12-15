@@ -1,10 +1,10 @@
 #ifndef __CXI_VDM_H__
 #define __CXI_VDM_H__
 
-#include <aes.h>
-#include <vdes.h>
-#include <eca.h>
-#include <cxi.h>
+#include "aes.h"
+#include "vdes.h"
+#include "eca.h"
+#include "cxi.h"
 
 typedef unsigned char* T_VDM_PTR;
 

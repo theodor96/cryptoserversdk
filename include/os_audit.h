@@ -14,7 +14,7 @@
 #define __OS_AUDIT_PUB_INCLUDED__
 
 #include "os.h"
-#include <stdarg.h>
+#include "stdarg.h"
 
 // audit classes
 #define OS_AUDIT_CLASS_FIRMWARE       0x00000001  // default

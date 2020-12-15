@@ -30,9 +30,9 @@
 #ifndef __CMDS_H_PUB_INCLUDED__
 #define __CMDS_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <os_cfg.h>
-#include <stdarg.h>
+#include "os_mdl.h"
+#include "os_cfg.h"
+#include "stdarg.h"
 
 
 /* module identification: */

@@ -22,9 +22,9 @@
 #ifndef __MODULE_H_PUB_INCLUDED__
 #define __MODULE_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <cs2_macro.h>
-#include <stdio.h>
+#include "os_mdl.h"
+#include "cs2_macro.h"
+#include "stdio.h"
 
 #define MODULE_INIT_C <module_init_1.5.c>
 

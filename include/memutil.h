@@ -1,4 +1,4 @@
-#include <string.h>
+#include "string.h"
 
 void memxor(void *, const void *, size_t);
 void xormem(size_t,const void *, const void *, void *);

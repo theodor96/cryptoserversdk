@@ -15,19 +15,19 @@
 #ifndef __POST_H_PUB_INCLUDED__
   #define __POST_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <os_log.h>
-#include <os_audit.h>
+#include "os_mdl.h"
+#include "os_log.h"
+#include "os_audit.h"
 
-#include <aes.h>
-#include <ecdsa.h>
-#include <eca.h>
-#include <hash.h>
-#include <vrsa.h>
-#include <dsa.h>
-#include <vdes.h>
+#include "aes.h"
+#include "ecdsa.h"
+#include "eca.h"
+#include "hash.h"
+#include "vrsa.h"
+#include "dsa.h"
+#include "vdes.h"
 
-#include <cmds.h>
+#include "cmds.h"
 
 //-----------------------------------------------------------------------------
 // module identification:

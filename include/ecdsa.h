@@ -21,8 +21,8 @@
 #ifndef __ECDSA_H_PUB_INCLUDED__
   #define __ECDSA_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <eca.h>
+#include "os_mdl.h"
+#include "eca.h"
 
 /* module identification: */
 

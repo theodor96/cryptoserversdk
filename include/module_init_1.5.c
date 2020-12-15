@@ -23,10 +23,10 @@
  *  04.07.2008 | Version 1.4: module_init_terminate              |  R.H.
  *  17.06.2013 | Version 1.5: set CPU type for CSe [2]           |  S.K.
  *****************************************************************************/
-#include <os_task.h>
-#include <os_mdl.h>
-#include <os_log.h>
-#include <os_mem.h>
+#include "os_task.h"
+#include "os_mdl.h"
+#include "os_log.h"
+#include "os_mem.h"
 
 
 #if defined(MODULE_NEEDS_EXT_REFS) || defined(MODULE_INIT_TASK_FUNCTION) || defined(MODULE_HAS_EXT_INTERFACE)

@@ -23,7 +23,7 @@
 #ifndef __DSA_H_PUB_INCLUDED__
   #define __DSA_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
+#include "os_mdl.h"
 
 
 /* module identification: */

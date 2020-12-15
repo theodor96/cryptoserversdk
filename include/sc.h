@@ -21,12 +21,12 @@
 #ifndef __SC_H_PUB_INCLUDED__
 #define __SC_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <os_mem.h>
-#include <stype.h>
+#include "os_mdl.h"
+#include "os_mem.h"
+#include "stype.h"
 
 #ifdef DEBUG
-    #include <cmds.h>
+    #include "cmds.h"
 #endif
 #ifdef DEBUG2
     #define debug_xprint(x,y,z)     cmds_xprint(x,y,z)

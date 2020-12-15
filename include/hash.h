@@ -28,7 +28,7 @@
 #ifndef __HASH_H_PUB_INCLUDED__
   #define __HASH_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
+#include "os_mdl.h"
 
 /* Error Codes:  (0xB0000000 | (HASH_MDL_ID << 16) | (errno))  */
 

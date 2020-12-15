@@ -16,10 +16,10 @@
 #ifndef __MBK_H_PUB_INCLUDED__
 #define __MBK_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
-#include <util.h>
-#include <vdes.h>
-#include <aes.h>
+#include "os_mdl.h"
+#include "util.h"
+#include "vdes.h"
+#include "aes.h"
 
 //-----------------------------------------------------------------------------
 // module identification:  

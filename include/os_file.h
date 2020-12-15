@@ -13,7 +13,7 @@
 #ifndef __OS_FILE_H_PUB_INCLUDED__
 #define __OS_FILE_H_PUB_INCLUDED__
 
-#include <stype.h>
+#include "stype.h"
 
 /************************************************************************************************
  * constants for file handling with names and handles

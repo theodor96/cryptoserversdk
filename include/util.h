@@ -16,7 +16,7 @@
 #ifndef _UTIL_H_PUB_INCLUDED__
 #define _UTIL_H_PUB_INCLUDED__
 
-#include <os_mdl.h>
+#include "os_mdl.h"
 
 
 //-----------------------------------------------------------------------------

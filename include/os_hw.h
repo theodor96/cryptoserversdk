@@ -13,7 +13,7 @@
 #ifndef __OS_HW_H_PUB_INCLUDED__
 #define __OS_HW_H_PUB_INCLUDED__
 
-#include <os.h>
+#include "os.h"
 
 typedef enum
 {
