@@ -26,7 +26,7 @@
 #include "cs2_macro.h"
 #include "stdio.h"
 
-#define MODULE_INIT_C <module_init_1.5.c>
+#define MODULE_INIT_C "module_init_1.5.c"
 
 typedef struct
 {
